@@ -1,6 +1,4 @@
 ﻿using System;
-
-// Создаем структуру "Книга"
 struct Book
 {
     public string Author;
